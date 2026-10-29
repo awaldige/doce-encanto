@@ -19,6 +19,16 @@ O projeto possui um design delicado e elegante, com cores suaves e elementos vis
 - ℹ️ Seção de apresentação da confeitaria.
 - 🦶 Rodapé com informações da marca e identificação do desenvolvedor.
 
+## 🖥️ Demonstração
+
+**Acesse a landing page publicada:**
+
+🌐 https://doceencanto-oficial.vercel.app/
+
+### Página inicial
+
+![Página inicial da landing page Doce Encanto](docs/screenshots/doce-encanto-home.png)
+
 ## 🛠️ Tecnologias utilizadas
 
 - **Next.js** — Framework para desenvolvimento web.
