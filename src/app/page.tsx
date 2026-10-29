@@ -59,7 +59,7 @@ const products = [
   name: "Brownies artesanais",
   description:
     "Brownies de chocolate com textura macia e sabor intenso, perfeitos para adoçar o dia.",
-  image: "/imagens/brownies-artesanais.jpg",
+  image: "/imagens/Brownies-artesanais.jpg",
   alt: "Brownies artesanais de chocolate",
 },
   {
