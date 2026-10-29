@@ -1,36 +1,134 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🍰 Doce Encanto
 
-## Getting Started
+### Landing Page Demonstrativa para Confeitaria Artesanal
 
-First, run the development server:
+**Projeto desenvolvido por AW TECHNOLOGY**
+
+O Doce Encanto é uma landing page demonstrativa criada para apresentar uma confeitaria artesanal, destacando seus produtos, sua identidade visual e os canais de contato para encomendas.
+
+O projeto possui um design delicado e elegante, com cores suaves e elementos visuais que valorizam os produtos e proporcionam uma experiência agradável aos visitantes.
+
+## ✨ Funcionalidades
+
+- 🏠 Página inicial com apresentação da marca.
+- 🧁 Catálogo com 12 produtos de confeitaria.
+- 🖼️ Galeria de Delícias com 6 imagens.
+- 🎨 Identidade visual com cores e elementos que remetem à confeitaria artesanal.
+- 📱 Layout responsivo para diferentes tamanhos de tela.
+- 💬 Seções destinadas ao contato e às encomendas.
+- ℹ️ Seção de apresentação da confeitaria.
+- 🦶 Rodapé com informações da marca e identificação do desenvolvedor.
+
+## 🛠️ Tecnologias utilizadas
+
+- **Next.js** — Framework para desenvolvimento web.
+- **React** — Construção da interface.
+- **TypeScript** — Tipagem estática e maior segurança no desenvolvimento.
+- **Tailwind CSS** — Estilização da aplicação.
+- **Lucide React** — Biblioteca de ícones.
+
+## 🍬 Produtos apresentados
+
+O catálogo contempla diferentes opções de doces e sobremesas:
+
+- Bolos artesanais
+- Brigadeiros gourmet
+- Trufas artesanais
+- Cupcakes personalizados
+- Brownies artesanais
+- Bolos de pote
+- Doces finos
+- Caixas de doces para presente
+- Cookies artesanais
+- Mini bolos decorados
+- Tortinhas artesanais
+- Pães de mel recheados
+
+## 🖼️ Galeria de Delícias
+
+A galeria apresenta uma seleção de seis imagens para valorizar a identidade visual da confeitaria e despertar o interesse dos visitantes pelos produtos.
+
+## 🚀 Como executar o projeto localmente
+
+### Pré-requisitos
+
+- Node.js instalado.
+- npm instalado.
+- Git instalado.
+
+### 1. Clone o repositório
+
+```bash
+git clone https://github.com/awaldige/doce-encanto.git
+```
+
+### 2. Entre na pasta do projeto
+
+```bash
+cd doce-encanto
+```
+
+### 3. Instale as dependências
+
+```bash
+npm install
+```
+
+### 4. Execute o ambiente de desenvolvimento
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### 5. Acesse a aplicação
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Abra o navegador e acesse:
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```text
+http://localhost:3000
+```
 
-## Learn More
+### 6. Gere a versão de produção
 
-To learn more about Next.js, take a look at the following resources:
+Para verificar e compilar a aplicação para produção, execute:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+```bash
+npm run build
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 📂 Estrutura do projeto
 
-## Deploy on Vercel
+```text
+doce-encanto/
+├── public/
+│   └── imagens/
+├── src/
+│   └── app/
+│       ├── globals.css
+│       ├── layout.tsx
+│       └── page.tsx
+├── package.json
+├── package-lock.json
+├── tsconfig.json
+└── README.md
+```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🎯 Objetivo do projeto
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Demonstrar a criação de uma landing page moderna e responsiva para uma confeitaria artesanal, com foco na apresentação de produtos, na identidade visual e na experiência do usuário.
+
+O projeto também demonstra a aplicação prática de tecnologias modernas de desenvolvimento web em uma solução que pode servir como referência para negócios que desejam fortalecer sua presença digital.
+
+## ⚠️ Observação
+
+Este é um projeto demonstrativo desenvolvido para fins de portfólio. As informações, os produtos e os contatos devem ser personalizados conforme as necessidades de uma confeitaria real.
+
+## 👨‍💻 Desenvolvedor
+
+**AW TECHNOLOGY**
+
+Desenvolvimento de sites, landing pages e sistemas web personalizados.
+
+---
+
+© 2026 Doce Encanto — Projeto demonstrativo desenvolvido por AW TECHNOLOGY.
